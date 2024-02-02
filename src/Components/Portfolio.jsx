@@ -39,10 +39,21 @@ const projectList = [
   {
     title: "SOFF",
     description:
-      "SOFF is my stratup project. SOFF is e-commerence app for furniture markets. I develop this app using Flutter collabrote with Unity",
+      "SOFF is my stratup project. SOFF is e-commerence app for furniture market. I develop this app using Flutter collabrote with Unity",
     url: "https://t.me/soff_company",
   },
-  
+  {
+    title: "My Resume Site",
+    description:
+      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+  },
+  {
+    title: "GitHub Codespaces and github.dev",
+    description:
+      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
 ];
 
 const Portfolio = () => {
