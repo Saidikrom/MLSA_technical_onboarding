@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "SOFF",
     description:
-      "SOFF is my stratup project. SOFF is e-commerence app for furniture market. I develop this app using Flutter collabrote with Unity",
+      "SOFF is my stratup project. SOFF is e-commerence app for furniture markets. I develop this app using Flutter collabrote with Unity",
     url: "https://t.me/soff_company",
   },
   
